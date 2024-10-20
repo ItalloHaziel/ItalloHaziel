@@ -1,10 +1,10 @@
 - 👋 Olá, me chamo Itallo Haziel
 - 📊 Atualmente estou migrando para área de dados
-- 🖥️ Fazendo o curso de formação de Análista de BI pela escola DNC https://www.escoladnc.com.br
+- 🖥️ Fazendo o curso de formação de Análista de BI pela escola DNC 
 - 🔧 Constantemente aprendendo novas ferramentas como Power BI, SQL, Phyton, Excel e desenvolvendo meu Inglês
 - 📫 Você me encontra atravez do e-mail itallohaziel21@gmail.com
 - 🌐 Interage comigo atravez do Linkedin www.linkedin.com/in/hazielitallo
-- 💆🏽‍♂️ Meu lema é: Devagar e Sempre
+- 💆🏽‍♂️ Meu lema é : Devagar e Sempre
 
 
 <!---
