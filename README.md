@@ -4,7 +4,6 @@
 - 🔧 Constantemente aprendendo novas ferramentas como Power BI, SQL, Phyton, Excel 
 - 📫 Você me encontra atravez do e-mail itallohaziel21@gmail.com
 - 🌐 Interage comigo atravez do Linkedin www.linkedin.com/in/hazielitallo
-- 💆 Meu lema é : Devagar e Sempre
 
 
 <!---
